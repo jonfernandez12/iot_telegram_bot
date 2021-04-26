@@ -1,7 +1,7 @@
 
 certbot==0.40.0
 certbot-nginx==0.40.0
-dist-packages==2.22.0
+requests==2.22.0
 dialogflow==1.1.0
 
 google-api-core==1.26.3
